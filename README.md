@@ -13,7 +13,7 @@ A small github repo used as an example for the coding workshop!
 
 To use this framework you will need to:
 
-
+a
 1. Replace my email (chrisdude7au@gmail.com) with your own.
 2. Replace all instances of chrisdude7au & chrisdude7au, with your own username (case insensitive replace).
 3. Replace my name (Chris Nolan) with yours (used in the doc and license).
